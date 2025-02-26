@@ -4,7 +4,7 @@ An old 3d Engine project I was working on back in 2017
 
 This Engine is highly inpractical and designed in extremley bad manner, This was the beggining of my c++ journey and the quality of code really shows it.
 
-# Features:
+# Features
 - phong lighting
 - cell-shading
 - skeletal animation
@@ -16,12 +16,12 @@ This Engine is highly inpractical and designed in extremley bad manner, This was
 - Basic FPP viewmodel implementation with skeletal animation
 
 
-# Dependencies:
--GLM
--DEVIL
--KHR
--SOIL
--ASSIMP
--GLEW
--GLFW
--[Skeletal-Animation-Library](https://github.com/RecklessGame/Skeletal-Animation-Library)
+# Dependencies
+- GLM
+- DEVIL
+- KHR
+- SOIL
+- ASSIMP
+- GLEW
+- GLFW
+- [Skeletal-Animation-Library](https://github.com/RecklessGame/Skeletal-Animation-Library)
